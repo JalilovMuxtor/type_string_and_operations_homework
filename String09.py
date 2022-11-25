@@ -9,4 +9,5 @@ def main(x1,x2,x3):
         str: return answer.
     """
     return f"[{x1},{x2},{x3}]"
-print(main(1,2,3))
+    return "[%d, %d, %d]" % (x1, x2, x3)
+print(main(3,2,1))
