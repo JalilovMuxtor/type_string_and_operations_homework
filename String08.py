@@ -8,6 +8,6 @@ def main(first,last):
         str: return answer.
     """
     first='Jalilov'
-    last='Muxtor' 
+    last='Muxtor'
     return first+','+last
-print(main('Jalilov', 'Muxtor'))
+print(main('Muxtor', 'Jalilov'))
