@@ -10,4 +10,4 @@ def main(first,last):
     first='Jalilov'
     last='Muxtor'
     return first+','+last
-print(main('Muxtor', 'Jalilov'))
+print(main('Muxtor','Jalilov'))
